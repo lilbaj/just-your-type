@@ -1,0 +1,24 @@
+html {
+  background-color: #131121;
+}
+
+p {
+  margin: 0;
+}
+
+.back-text {
+  font-family: 'Caveat', cursive;
+  color: #7c182b;
+  border-top: solid 4px #7c182b;
+  border-bottom: solid 4px #7c182b;
+}
+
+.box {
+  border: solid 4px #BCDCDB;
+  background-color: rgba(188, 220, 219, .3)
+}
+
+.box-text {
+  font-family: 'Oswald', sans-serif;
+  color: #ffd8e2;
+}
