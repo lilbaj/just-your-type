@@ -7,26 +7,25 @@ p {
 }
 
 .back-text {
-  font-family: 'Caveat', cursive;
+  font-family: Caveat, cursive;
   color: #7c182b;
   border-top: solid 4px #7c182b;
   border-bottom: solid 4px #7c182b;
 }
 
 .box {
-  border: solid 4px #BCDCDB;
-  background-color: rgba(188, 220, 219, .3)
+  border: solid 4px #bcdcdb;
+  background-color: rgba(188, 220, 219, .3);
 }
 
 .box-text {
-  font-family: 'Oswald', sans-serif;
+  font-family: Oswald, sans-serif;
   color: #ffd8e2;
 }
 
 .position-box {
   left: 25%;
 }
-
 
 @media only screen and (min-width: 60em) {
 
