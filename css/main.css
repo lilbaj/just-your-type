@@ -22,16 +22,3 @@ p {
   font-family: Oswald, sans-serif;
   color: #ffd8e2;
 }
-
-.position-box {
-  left: 25%;
-}
-
-@media only screen and (min-width: 60em) {
-
-  .position-box {
-    left: 38.5%;
-    top: 17%;
-  }
-
-}
